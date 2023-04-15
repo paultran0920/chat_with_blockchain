@@ -33,3 +33,6 @@ truffle build # It will compile and copy the compiled to /frontend/public/contra
 
 # Testing on UI
 Start the React app then play around with it
+
+# Tags
+Solidity metamask ganache reactjs web3
